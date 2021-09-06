@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mirk26
 - 👀 I’m interested in Distributed Computing, AI, Blockchain, Signal Processing, Quantum...
-- 🌱 I’m currently learning ... Defi Contracts and Tokenomics simulations. Lead data scientist in past org :) 
-- 💞️ I’m looking to collaborate on ... anything which motivates 
+- 🌱 I’m currently learning ... Defi Contracts, Data backed NFTs and Tokenomics simulations. Lead data scientist in past org :) 
+- 💞️ I’m looking to collaborate on ... DS AI Blockchain 
 - 📫 How to reach me ... morellato26@gmail.com
 
 <!---
